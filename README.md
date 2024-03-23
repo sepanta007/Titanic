@@ -30,7 +30,7 @@ The machine learning model's predictions on the test dataset can be found in the
 
 ## Results
 
-The machine learning model achieved an accuracy of **78.229%** on the test set, showcasing its effectiveness in predicting survival outcomes. Further details about model evaluation metrics.
+The machine learning model achieved an accuracy of **78.229%** on the test set, showcasing its effectiveness in predicting survival outcomes.
 
 ## Acknowledgments
 
